@@ -33,6 +33,7 @@ function App() {
               >
               Entrar
             </Button>
+            teste
           </Box>
         </Center>
       </Box>    
